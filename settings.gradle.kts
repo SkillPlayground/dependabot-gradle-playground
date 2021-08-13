@@ -6,4 +6,5 @@ dependencyResolutionManagement {
     }
 }
 
-include("dependabot")
+include(":dependabot")
+include(":gradle:catalogs:libs")
