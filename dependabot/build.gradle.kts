@@ -3,7 +3,7 @@
 // catalog start
 
 // [versions]
-val kotlin = "1.5.20"
+val kotlin = "1.6.21"
 
 // [libraries]
 val jetbrains_kotlin_plugin = "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin"
